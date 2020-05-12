@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RPS Brawl",
+"productVersion": "0.1",
+"dataUrl": "RPS Brawl.data.unityweb",
+"wasmCodeUrl": "RPS Brawl.wasm.code.unityweb",
+"wasmFrameworkUrl": "RPS Brawl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
